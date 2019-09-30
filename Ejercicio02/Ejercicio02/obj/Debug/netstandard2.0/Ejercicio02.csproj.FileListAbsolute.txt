@@ -20,3 +20,4 @@ C:\Users\TOSHIBA\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\nets
 C:\Users\TOSHIBA\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\MasterDetailPage1.xaml.g.cs
 C:\Users\TOSHIBA\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\StackLayoutDemo.xaml.g.cs
 C:\Users\TOSHIBA\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\DatepickerDemo.xaml.g.cs
+C:\Users\TOSHIBA\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\GridDemo.xaml.g.cs

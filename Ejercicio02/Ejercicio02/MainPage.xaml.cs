@@ -31,7 +31,7 @@ namespace Ejercicio02
             };
             Item7.Clicked += async (sender, e) =>
             {
-                await Navigation.PushAsync(new CarouselPageCode());
+                await Navigation.PushAsync(new GridDemo());
 
             };
             Item5.Clicked += async (sender, e) =>
