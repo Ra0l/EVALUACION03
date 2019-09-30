@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Ejercicio02"
+             x:Class="Ejercicio02.MainPage">
+
+    <StackLayout>
+        <Button x:Name="Item1" Text="StackLayout"/>
+        <Button x:Name="Item2" Text="TabbedPage1"/>
+        <Button x:Name="Item3" Text="CarouselPage"/>
+        <Button x:Name="Item7" Text="HoluC15-DAM"/>
+        <Button x:Name="Item5" Text="DatePicker"/>
+        <Button x:Name="Item6" Text="Alert"/>
+    </StackLayout>
+
+</ContentPage>
+
